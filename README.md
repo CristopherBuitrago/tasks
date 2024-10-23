@@ -91,6 +91,11 @@ php artisan serve
 
 Esto iniciará el servidor en `http://127.0.0.1:8000`.
 
+## Credenciales por defecto
+
+Email : admin@gmail.com
+Password: admin123
+
 ## Comandos útiles
 
 - **Correr las migraciones**: `php artisan migrate`
